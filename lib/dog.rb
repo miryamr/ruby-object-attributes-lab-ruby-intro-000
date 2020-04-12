@@ -18,3 +18,5 @@ end
 def breed
   @breed
 end
+
+snoopy.breed = "Beagle"
